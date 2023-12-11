@@ -1,0 +1,37 @@
+{
+  "name": "Pagina web de energia solar",
+  "short_name": "Energia solar",
+  "description": "Esta es una pagina web de energia solar",
+  "icons": [
+    {
+      "src": "img/logo.png",
+      "sizes": "192x192"
+    }
+    ],
+    "Imag1": [
+    {
+      "src": "img/img-1.jppg",
+      "sizes": "192x192"
+    }
+    ],
+
+    "Imag2": [
+        {
+          "src": "img/img-2.jppg",
+          "sizes": "192x192"
+        }
+    ],
+
+    "Imag3": [
+    {
+      "src": "img/img-3.jppg",
+      "sizes": "192x192"
+    }
+    ],
+  "start_url": "index.html",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "serviceWorker": {
+    "enabled": true
+  }
+}
